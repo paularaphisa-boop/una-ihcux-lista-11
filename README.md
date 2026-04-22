@@ -20,26 +20,27 @@ Inclui opções como:
 - Categoria (móveis, roupas, jardins, etc.)
 - Distância (ex: até 5 km, 10 km)
 - Estado de conservação
+
 Após aplicar os filtros, o feed é atualizado.
 
 3. Tela de Detalhes do Item
    Mostra informações completas do item selecionado:
-   Fotos
-   Descrição
-   Categoria e estado
-   Localização aproximada
-   Perfil do doador
-   Possui botão para entrar em contato (chat) e manifestar interesse no item.
+   - Fotos
+   - Descrição
+   - Categoria e estado
+   - Localização aproximada
+   - Perfil do doador
+   - Possui botão para entrar em contato (chat) e manifestar interesse no item.
 
 4. Tela de Cadastro de Novo Item
    Voltada para doadores cadastrarem um item.
    Inclui:
-   Upload de foto
-   Título e descrição
-   Categoria
-   Estado de conservação
-   Localização
-   Forma de retirada
+   - Upload de foto
+   - Título e descrição
+   - Categoria
+   - Estado de conservação
+   - Localização
+   - Forma de retirada
 
    Ao finalizar, o item é publicado no feed.
 
@@ -50,10 +51,10 @@ Interface simples, semelhante a aplicativos de mensagem.
 
 6. Tela de Perfil do Usuário
 Apresenta:
-Dados do usuário
-Histórico de doações/interesses
-Selos Eco conquistados (gamificação)
-Incentiva o engajamento contínuo.
+- Dados do usuário
+- Histórico de doações/interesses
+- Selos Eco conquistados (gamificação)
+- Incentiva o engajamento contínuo.
 
 **Jornada Principal do Usuário**
 O usuário abre o aplicativo e acessa a Tela Home (Feed).
