@@ -17,9 +17,9 @@ Permite rolagem, acesso rápido aos detalhes de cada item e a opção de cadastr
 2. Tela de Filtros de Busca
 Permite ao usuário refinar a busca de itens.
 Inclui opções como:
-Categoria (móveis, roupas, jardins, etc.)
-Distância (ex: até 5 km, 10 km)
-Estado de conservação
+- Categoria (móveis, roupas, jardins, etc.)
+- Distância (ex: até 5 km, 10 km)
+- Estado de conservação
 Após aplicar os filtros, o feed é atualizado.
 
 3. Tela de Detalhes do Item
