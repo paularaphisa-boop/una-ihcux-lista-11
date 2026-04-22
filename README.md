@@ -21,7 +21,7 @@ Permite rolagem, acesso rápido aos detalhes de cada item e a opção de cadastr
    - Distância (ex: até 5 km, 10 km)
    - Estado de conservação.
 
-Após aplicar os filtros, o feed é atualizado.
+     Após aplicar os filtros, o feed é atualizado.
 
 3. Tela de Detalhes do Item
    Mostra informações completas do item selecionado:
