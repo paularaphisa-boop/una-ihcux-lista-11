@@ -15,11 +15,11 @@ O app reduz desperdícios, ajuda comunidades e ainda gera senso de recompensa po
 Permite rolagem, acesso rápido aos detalhes de cada item e a opção de cadastrar um item para doação.
 
 2. Tela de Filtros de Busca
-Permite ao usuário refinar a busca de itens.
-Inclui opções como:
-- Categoria (móveis, roupas, jardins, etc.)
-- Distância (ex: até 5 km, 10 km)
-- Estado de conservação
+   Permite ao usuário refinar a busca de itens.
+   Inclui opções como:
+   - Categoria (móveis, roupas, jardins, etc.)
+   - Distância (ex: até 5 km, 10 km)
+   - Estado de conservação.
 
 Após aplicar os filtros, o feed é atualizado.
 
@@ -50,11 +50,11 @@ Os usuários combinam detalhes como local e horário da retirada.
 Interface simples, semelhante a aplicativos de mensagem.
 
 6. Tela de Perfil do Usuário
-Apresenta:
-- Dados do usuário
-- Histórico de doações/interesses
-- Selos Eco conquistados (gamificação)
-- Incentiva o engajamento contínuo.
+   Apresenta:
+   - Dados do usuário
+   - Histórico de doações/interesses
+   - Selos Eco conquistados (gamificação)
+   - Incentiva o engajamento contínuo.
 
 **Jornada Principal do Usuário**
 O usuário abre o aplicativo e acessa a Tela Home (Feed).
