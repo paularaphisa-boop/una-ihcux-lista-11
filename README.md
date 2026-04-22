@@ -23,26 +23,25 @@ Estado de conservação
 Após aplicar os filtros, o feed é atualizado.
 
 3. Tela de Detalhes do Item
-Mostra informações completas do item selecionado:
-
-Fotos
-Descrição
-Categoria e estado
-Localização aproximada
-Perfil do doador
-Possui botão para entrar em contato (chat) e manifestar interesse no item.
+   Mostra informações completas do item selecionado:
+   Fotos
+   Descrição
+   Categoria e estado
+   Localização aproximada
+   Perfil do doador
+   Possui botão para entrar em contato (chat) e manifestar interesse no item.
 
 4. Tela de Cadastro de Novo Item
-Voltada para doadores cadastrarem um item.
-Inclui:
+   Voltada para doadores cadastrarem um item.
+   Inclui:
+   Upload de foto
+   Título e descrição
+   Categoria
+   Estado de conservação
+   Localização
+   Forma de retirada
 
-Upload de foto
-Título e descrição
-Categoria
-Estado de conservação
-Localização
-Forma de retirada
-Ao finalizar, o item é publicado no feed.
+   Ao finalizar, o item é publicado no feed.
 
 5. Tela de Chat / Mensagens
 Permite a comunicação entre doador e interessado.
