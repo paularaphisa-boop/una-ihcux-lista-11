@@ -1,5 +1,7 @@
-Grupo:
-
+**Grupo:**
+Paula Raphisa Mendes
+Julia Beatriz Miranda
+Heitor Sousa Carmo
 
 **Proposta de Valor**
 
@@ -9,14 +11,13 @@ O app reduz desperdícios, ajuda comunidades e ainda gera senso de recompensa po
 **Descrição das Telas**
 
 1. Tela de Feed / Home
-É a tela inicial do aplicativo. Exibe uma lista de itens disponíveis próximos ao usuário, com imagem, título, categoria e distância.
-Permite rolagem e acesso rápido aos detalhes de cada item.
+É a tela inicial do aplicativo. Exibe uma lista de itens disponíveis próximos ao usuário, com imagem, título, estado de conservação e distância.
+Permite rolagem, acesso rápido aos detalhes de cada item e a opção de cadastrar um item para doação.
 
 2. Tela de Filtros de Busca
 Permite ao usuário refinar a busca de itens.
 Inclui opções como:
-
-Categoria (móveis, roupas, eletrônicos, etc.)
+Categoria (móveis, roupas, jardins, etc.)
 Distância (ex: até 5 km, 10 km)
 Estado de conservação
 Após aplicar os filtros, o feed é atualizado.
@@ -29,7 +30,7 @@ Descrição
 Categoria e estado
 Localização aproximada
 Perfil do doador
-Possui botão para entrar em contato (chat).
+Possui botão para entrar em contato (chat) e manifestar interesse no item.
 
 4. Tela de Cadastro de Novo Item
 Voltada para doadores cadastrarem um item.
@@ -39,6 +40,8 @@ Upload de foto
 Título e descrição
 Categoria
 Estado de conservação
+Localização
+Forma de retirada
 Ao finalizar, o item é publicado no feed.
 
 5. Tela de Chat / Mensagens
@@ -57,7 +60,8 @@ Incentiva o engajamento contínuo.
 O usuário abre o aplicativo e acessa a Tela Home (Feed).
 Navega pelos itens disponíveis ou utiliza a Tela de Filtros para refinar a busca.
 Seleciona um item e acessa a Tela de Detalhes.
-Demonstra interesse clicando em “Entrar em contato”.
+Demonstra interesse clicando em “Quero este item”.
+Para tirar dúvidas e combinar a retirada do item, clica em "Enviar mensagem".
 É direcionado para a Tela de Chat, onde conversa com o doador.
 Ambos combinam a retirada do item.
 Após a conclusão da doação, o sistema registra a ação.
